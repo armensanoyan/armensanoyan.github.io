@@ -14,13 +14,13 @@ I am a dedicated and proficient Backend Developer with experience in a variety o
 - **Languages:** JavaScript (Node, Nest, Express, React, Next), TypeScript, Python
 - **Technologies:** GraphQL (Apollo), Postgraphile, Neo4j, SQL (PostgreSQL, MySQL), ORM (TypeORM, Sequelize), Git, Gitlab/Github, Unix/Linux
 
-## Projects
+<!-- ## Projects
 ### [Project Name]
 - **Overview:** [Brief description of the project]
 - **Technologies Used:** [List of technologies used]
 - **Challenges & Solutions:** [Discuss any challenges you faced and how you solved them]
 - **Code Samples:** [Link to GitHub repositories or include code snippets]
-- **Results:** [Share the outcomes or any metrics that prove the success of the project]
+- **Results:** [Share the outcomes or any metrics that prove the success of the project] -->
 
 ## Work Experience
 ### Backend Developer - [Dates: 10/2022-now]
