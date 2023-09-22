@@ -5,7 +5,7 @@
 - **LinkedIn:** [https://www.linkedin.com/in/armen-sanoyan-915059265/](https://www.linkedin.com/in/armen-sanoyan-915059265/)
 - **GitHub:** [https://github.com/armensanoyan](https://github.com/armensanoyan)
 - **Stackoverflow:** [https://stackoverflow.com/users/6687545/armen-sanoyan](https://stackoverflow.com/users/6687545/armen-sanoyan)
-- **Resume:** [link to CV] (https://drive.google.com/file/d/1HbLGMpSLuMVHNQxXsJ2AxwCMcen6OMcN/view?usp=sharing)
+- **Resume:** [link to CV](https://drive.google.com/file/d/1HbLGMpSLuMVHNQxXsJ2AxwCMcen6OMcN/view?usp=sharing)
 
 ## Introduction
 I am a dedicated and proficient Backend Developer with experience in a variety of technologies such as NodeJS, Express, SQL, MongoDB, Redis, Elasticsearch, and microservices. I have a strong background in both Backend and Full Stack development, with a focus on creating efficient and high-performing applications. My education in Semiconductor Physics and Microelectronics has provided me with a solid foundation in technology and a unique perspective on problem-solving.
